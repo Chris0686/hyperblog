@@ -8,6 +8,7 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas practicas.
 * Creado por Platzi Team
 * Incluye ejempplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Y como un amable recordatorio: **Este Readme.md es un chiste**. Diseñado para el ejemplo.
 
