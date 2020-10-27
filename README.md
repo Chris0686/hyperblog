@@ -6,6 +6,7 @@ En este curso vemos de todo:
 * Todos los comandos de Git.
 * El flujo de trabajo de Github.
 * El verdadero amor por las buenas practicas.
+* Creado por Platzi Team
 
 Y como un amable recordatorio: **Este Readme.md es un chiste**. Diseñado para el ejemplo.
 
